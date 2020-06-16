@@ -1,5 +1,5 @@
 # nw-react-template
-Nw.js template using react
+Nw.js template using react and typescript
 
 ```
 npm install
